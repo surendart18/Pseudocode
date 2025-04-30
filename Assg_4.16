@@ -2,7 +2,7 @@
 int main()
 {
     int p;
-    for(p=1;p<=10,--p;p=p+2)
+    for(p=1;p<=10,--p;p=p+2)    // two conditions declared but it takes second condition
     printf("Hello\n");
     printf("Hi");
 }
